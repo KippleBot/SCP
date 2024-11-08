@@ -1,0 +1,48 @@
+html{ background-color: rgb(21, 18, 18);
+    color: white;
+margin-left: 25%;}
+div{
+    width:600px;
+    height:1600px;
+    background-color: rgb(72, 71, 88);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    max-width: 200px;
+    max-height: 350px;
+    margin: 10px;
+    align-self: center;}
+
+    section{
+        width: 600px;
+    }
+    .red{
+        background-color: rgb(255, 69, 69);
+    }
+    .orange{
+        background-color: rgb(255, 150, 69);
+    }
+    .yellow{
+        background-color: rgb(255, 240, 75);
+        color: black;
+    }
+    .cyan{
+        background-color: rgb(69, 168, 255);
+        color: black;
+    }
+    .blue{
+        background-color: rgb(94, 69, 255);
+    }
+
+    li{
+        float:left;
+        
+    }
+
+
+    input{  background-color: white;
+        background-position: 10px 10px;
+        background-repeat: no-repeat;
+        padding-left: 40px;
+
+    }

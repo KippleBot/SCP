@@ -1,0 +1,40 @@
+[{
+    "name":"SCP-999",
+    "class":"Safe",
+    "description":"SCP-999 appears to be a large, amorphous, gelatinous mass of translucent orange slime, weighing about 54 kg (120 lbs) with a consistency similar to that of peanut butter. Subject’s size and shape is easily malleable and can change shape at will, though when at rest, SCP-999 becomes a rounded, oblate dome roughly 2 meters wide and 1 meter in height. The surface of SCP-999 consists of a thin, transparent membrane similar to that of an animal cell roughly .5 cm thick, and is highly elastic, allowing SCP-999 to flatten portions of its body up to 2 cm thin. This surface is also hydrophobic, although SCP-999 can willfully absorb liquids (see Addendum SCP-999-A). The rest of SCP-999's body is filled with a viscous orange substance of unknown chemical makeup, though it is capable of digesting organic materials with ease.",
+    "containment":"SCP-999 is allowed to freely roam the facility should it desire to, but otherwise must stay in its pen either between 8PM-9PM for sleeping, or during emergency lockdowns for its own safety. Subject is not allowed out of its pen at night or off facility grounds at any time. Pen is to be kept clean and food replaced twice daily. All personnel are allowed inside SCP-999’s holding area, but only if they are not assigned to other tasks at the time, or if they are on break. Subject is to be played with when bored and spoken to in a calm, non-threatening tone.",
+    "image":"images/999.jfif"
+
+},
+{
+    "name":"SCP-3008",
+    "class":"Euclid",
+    "description":"SCP-3008 is a large retail unit previously owned by and branded as IKEA, a popular furniture retail chain. A person entering SCP-3008 through the main entrance and then passing out of sight of the doors will find themselves translocated to SCP-3008-1. This displacement will typically go unnoticed as no change will occur from the perspective of the victim; they will generally not become aware until they try to return to the entrance.",
+    "containment":"The retail park containing SCP-3008 has been purchased by the Foundation and converted into Site-██. All public roads leading to or passing by Site-██ have been redirected. The entrance to SCP-3008 is to be monitored at all times, and no one is to enter SCP-3008 outside of testing, as permitted by the Senior Researcher. Humans exiting SCP-3008 are to be detained and then debriefed prior to the administration of amnestics. Dependent upon the duration of their stay in SCP-3008, a cover story may need to be generated prior to their release.",
+    "image":"images/3008.jfif"
+
+},
+{
+    "name":"SCP-096",
+    "class":"Euclid",
+    "description":"SCP-096 is a humanoid creature measuring approximately 2.38 meters in height. Subject shows very little muscle mass, with preliminary analysis of body mass suggesting mild malnutrition. Arms are grossly out of proportion with the rest of the subject's body, with an approximate length of 1.5 meters each. Skin is mostly devoid of pigmentation, with no sign of any body hair. SCP-096's jaw can open to four (4) times the norm of an average human. Other facial features remain similar to an average human, with the exception of the eyes, which are also devoid of pigmentation. It is not yet known whether SCP-096 is blind or not. It shows no signs of any higher brain functions, and is not considered to be sapient.",
+    "containment":" SCP-096 is to be contained in its cell, a 5 m x 5 m x 5 m airtight steel cube, at all times. Weekly checks for any cracks or holes are mandatory. There are to be absolutely no video surveillance or optical tools of any kind inside SCP-096's cell. Security personnel will use pre-installed pressure sensors and laser detectors to ensure SCP-096's presence inside the cell.",
+    "image":"images/96.jfif"
+
+},
+{
+    "name":"SCP-035",
+    "class":"Keter",
+    "description":"SCP-035 appears to be a white porcelain comedy mask, although, at times, it will change to tragedy. In these events, all existing visual records, such as photographs, video footage, even illustrations, of SCP-035 automatically change to reflect its new appearance. A highly corrosive and degenerative viscous liquid constantly seeps from the eye and mouth holes of SCP-035. Anything coming into contact with this substance slowly decays over a period of time, depending on the material, until it has decayed completely into a pool of the original contaminant. Glass seems to react the slowest to the effects of the item, hence the construction choice of its immediate container. Living organisms that come into contact with the substance react much the same way, with no chance of recovery. Origin of the liquid is unknown. Liquid is only visible from the front, and does not emerge or is even visible from the other side.",
+    "containment":" SCP-035 is to be kept within a hermetically sealed glass case, no fewer than 10 centimeters (4 inches) thick. This case is to be contained within a steel, iron and lead-shielded room at all times. Doors are to be triple-locked at all times, with the exception of allowing personnel in or out. No fewer than two (2) armed guards are to be posted at any time. Guards must remain outside at all times and are not allowed within the containment room under any circumstances. A trained psychologist is to remain on site at all times. Research personnel are not to touch SCP-035 at any time. SCP-035 must be moved to a new sealed case every two (2) weeks. The previous case must be disposed of via SCP-101, as it shows no adverse reactions to SCP-035's “corruption”. Anyone who comes into contact with SCP-035 when it is in possession of a host is to be given an immediate psychological evaluation.",
+    "image":"images/35.jpg"
+
+},
+{
+    "name":"SCP-1000",
+    "class":"Keter",
+    "description":"SCP-1000 is a nocturnal, omnivorous ape, classified in the Hominini branch along with genera Pan and Homo. Adults range in size from 1.5 to 3 m (5 to 10 ft) in height, and weigh between 90 and 270 kg (200 - 600 lbs). They have grey, brown, black, red, and occasionally white fur. They possess large eyes with good vision, a pronounced brow ridge, and a sagittal crest on the forehead similar to that of the gorilla, but present in both sexes. Their intelligence is on par with that of Pan troglodytes (the common chimpanzee). SCP-1000 evolved alongside Homo sapiens, existing contemporaneously with proto-humans and humans in large numbers until 10,000-15,000 years ago, when an extinction event eliminated all but 1-5% of their population. This event was triggered by SCP-1000 contracting an anomalous 'pseudo-disease' classified as SCP-1000-f1. This disease is passed on at the genetic level and affects every present-day instance of SCP-1000. The majority of SCP-1000 instances are born immune to the effect; those who are not born immune quickly die.",
+    "containment":"All media reports related to SCP-1000 are to be examined for potential verifiability. All organizations and individuals investigating SCP-1000's existence are to be kept under surveillance by Mobile Task Force Zeta-1000 and discredited or administered amnestics. All physical signs of SCP-1000's existence must be retrieved and kept in Foundation custody, and replaced with decoy items if necessary. Alleged sightings of SCP-1000 must always be investigated by MTF Zeta-1000, however trivial the claim. Absolutely no contact with wild or captive instances of SCP-1000 is allowed without prior approval by Director Jones. Any interaction between SCP-1000 and humans, including Foundation personnel, must be reported to Director Jones immediately.",
+    "image":"images/1000.png"
+
+}]
